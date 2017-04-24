@@ -89,4 +89,4 @@ ENV/
 .ropeproject
 
 # Code project settings
-.json 
+*.json 
