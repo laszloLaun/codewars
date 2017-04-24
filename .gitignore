@@ -89,4 +89,4 @@ ENV/
 .ropeproject
 
 # VScode project settings
-.vscode/launch.json 
+*.json 
