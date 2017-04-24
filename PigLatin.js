@@ -15,5 +15,3 @@ function pig_it(text) {
     console.log(pigged_text);
     return pigged_text;
 }
-
-pig_it('Quis custodiet ipsos custodes ?');
